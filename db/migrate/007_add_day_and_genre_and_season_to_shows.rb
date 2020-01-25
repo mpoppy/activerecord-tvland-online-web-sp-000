@@ -1,3 +1,3 @@
 
-class AddDayAndGenreToShows < ActiveRecord::Migration[5.1]
+class AddDayAndGenreAndSeasonToShows < ActiveRecord::Migration[5.1]
 end
